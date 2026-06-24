@@ -54,13 +54,6 @@ Currently focusing on:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Komeil-Ahankoobi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Komeil-Ahankoobi&theme=tokyonight&no-frame=true&row=1" alt="Trophies" />
-</p>
 
 ---
 
