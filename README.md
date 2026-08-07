@@ -49,11 +49,11 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komeil-Ahankoobi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Komeil-Ahankoobi&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komeil-Ahankoobi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Komeil-Ahankoobi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Komeil-Ahankoobi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
