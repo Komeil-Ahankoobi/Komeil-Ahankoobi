@@ -45,18 +45,30 @@ Currently focusing on:
 - ✍️ Writing cleaner, more maintainable code
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komeil-Ahankoobi&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komeil-Ahankoobi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Komeil-Ahankoobi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/Komeil-Ahankoobi">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Komeil-Ahankoobi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/Komeil-Ahankoobi">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Komeil-Ahankoobi&theme=dracula" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 📫 Contact Me
 
